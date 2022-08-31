@@ -31,7 +31,7 @@ MedaaTech is a robotics team that participates in hackhatons, especially those r
     </td>
     <td align="center">
         <a href="git alex">
-            <img src="https://drive.google.com/file/d/1HlyM6bBBQVN5nWzq8msY164avMb96CwC/view?usp=sharing" width="100px;" alt="Alex Bulzan"/><br />
+            <img src="https://drive.google.com/file/d/1HlyM6bBBQVN5nWzq8msY164avMb96CwC/view?usp=sharing" width="100px;" alt="Alex"/><br />
             <sub><b>Alex Bulzan</b></sub></a><br />
         <a href="git alex" title="3D modelling">🧰🛠️</a>
     </td>
