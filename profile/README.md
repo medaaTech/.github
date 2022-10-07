@@ -1,7 +1,7 @@
 <!--<a href = "" title = "team logo"></a>-->
 # MedaaTech
 
-The repo used by the MedaaTech team and the management of the team and our projects
+The repo used by the MedaaTech team for the management of the team and our projects
 MedaaTech is a robotics team that participates in competitions and does cool projects :)
 
 ## Contact
