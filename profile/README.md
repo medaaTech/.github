@@ -1,8 +1,8 @@
 <!--<a href = "" title = "team logo"></a>-->
-# Nea Mulan 2022-2023
+# MedaaTech
 
-The repo used by the MedaaTech team and the management of the team and the project in 2022-2023.
-MedaaTech is a robotics team that participates in hackhatons, especially those related to sumo robotics :)
+The repo used by the MedaaTech team and the management of the team and our projects
+MedaaTech is a robotics team that participates in competitions and does cool projects :)
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/company/medaatech/
