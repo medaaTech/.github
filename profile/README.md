@@ -5,7 +5,8 @@ The repo used by the MedaaTech team and the management of the team and the proje
 MedaaTech is a robotics team that participates in hackhatons, especially those related to sumo robotics :)
 
 ## Contact
-  Instagram: https://www.instagram.com/medaa_tech/
+- LinkedIn: https://www.linkedin.com/company/medaatech/
+- Instagram: https://www.instagram.com/medaa_tech/
 
 ## Contributors
 
