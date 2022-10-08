@@ -39,7 +39,7 @@ MedaaTech is a robotics team that participates in competitions and does cool pro
   </tr>
   <tr>
     <td>
-      <img src="contributors/mihai.jpg" width="100px;" alt="Mihai"/><br />
+      <img src="contributors/mihai.jpeg" width="100px;" alt="Mihai"/><br />
       <sub><b>Mihai Stefanuti</b></sub></a><br />
       <a href="https://github.com/stefaux" title="Api Dev">💾🧩</a>
     </td>
